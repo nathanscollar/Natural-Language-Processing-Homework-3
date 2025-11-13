@@ -20,4 +20,6 @@ Model:
 Hardware
 - All testing is done on CPU configuration
 - I utilized a Dell XPS 15 with the following parameters:
+
 - Intel (R) Core (TM) i7-10750H CPU @ 2.60 GHz
+- 16 GB of RAM
